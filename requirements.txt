@@ -1,0 +1,13 @@
+pip~=25.0
+wheel~=0.45.1
+setuptools~=75.8.0
+sentence-transformers==2.2.2
+langchain
+flask
+pypdf
+pinecone[grpc]
+langchain-pinecone
+langchain-community
+langchain-openai
+langchain-experimental
+-e .
